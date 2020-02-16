@@ -43,3 +43,6 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 请不要修改 `~/.config/clash/config.yml` 中的端口配置，否则会导致应用异常。
 
+
+测试环境
+
